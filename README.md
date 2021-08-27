@@ -70,7 +70,7 @@ Given a description of libraries and books available, plan which books to scan f
 
 | Name               | Github                                                       | Role                                     |
 | :----------------- | :----------------------------------------------------------- | :--------------------------------------- |
-| Cristiano Clemente | [@cristiano-clemente](https://github.com/cristiano-clemente) | Team Leader & Programmer                 |
+| Cristiano Clemente | [@cristianocclemente](https://github.com/cristianocclemente) | Team Leader & Programmer                 |
 | Hugo Pitorro       | [@xtwigs](https://github.com/xtwigs)                         | Programmer                               |
 | Catarina Carreiro  | [@cmcarreiro](https://github.com/cmcarreiro)                 | Algorithm Designer (& Bug-Finder Person) |
 | Mónica Jin         | [@mokita-j](https://github.com/Mokita-J)                     | Algorithm Designer                       |
